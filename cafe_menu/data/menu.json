@@ -1,0 +1,21 @@
+{
+    "menu items": [
+        {
+            "price": 5,
+            "name": "Americano"
+        },
+        {
+            "price": 6,
+            "name": "Vanilla Latte"
+        },
+        {
+            "price": 6.5,
+            "name": "Grapefruit Ade"
+        },
+        {
+            "price": 43,
+            "name": "dfsdf"
+        }
+    ],
+    "name": "menu"
+}

@@ -1,0 +1,13 @@
+{
+    "menu items": [
+        {
+            "price": 5,
+            "name": "Mango Ade"
+        },
+        {
+            "price": 4,
+            "name": "Espresso"
+        }
+    ],
+    "name": "Cafe Menu"
+}
